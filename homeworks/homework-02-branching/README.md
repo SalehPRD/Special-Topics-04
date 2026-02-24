@@ -11,3 +11,8 @@
 - Console-based user interface
 - Configuration management
 - Comprehensive test suite
+
+## UI Features
+- Interactive console menu
+- Input validation
+- Error handling
